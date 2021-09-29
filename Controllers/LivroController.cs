@@ -28,7 +28,7 @@ namespace provaLivro.Controllers
             return Created("", livro);
         }
 
-        //GET: api/produto/list
+        //GET: api/livro/list
         [HttpGet]
         [Route("list")]
         public IActionResult List() => Ok(_context.Livro.ToList());
