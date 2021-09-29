@@ -27,3 +27,8 @@ C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvol
 C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\obj\Debug\net5.0\ref\provaLivro.dll
 C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\obj\Debug\net5.0\provaLivro.pdb
 C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\obj\Debug\net5.0\provaLivro.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
