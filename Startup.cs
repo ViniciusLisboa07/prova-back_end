@@ -28,6 +28,15 @@ namespace provaLivro
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            //Configurar a política de CORS para receber requisições de qualquer origem
+            services.AddCors(
+                options =>
+                {
+                    options.AddPolicy("CorsPolicy", builder => builder
+                        .AllowAnyOrigin());
+                }
+            );
+
             services.AddDbContext<DataContext>
             (
                 options => options.UseInMemoryDatabase("database")
@@ -49,6 +58,8 @@ namespace provaLivro
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "provaLivro v1"));
             }
+
+            app.UseCors("CorsPolicy");
 
             app.UseHttpsRedirection();
 
