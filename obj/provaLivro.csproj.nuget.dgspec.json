@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pichau\\Desktop\\Sistemas de Informação\\2 ano\\Segundo Semestre\\Desenvolvimento de Software Visual\\ProvaPrimeiroBimestre\\provaLivro\\provaLivro.csproj": {}
+    "D:\\Prova\\prova-back_end\\provaLivro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pichau\\Desktop\\Sistemas de Informação\\2 ano\\Segundo Semestre\\Desenvolvimento de Software Visual\\ProvaPrimeiroBimestre\\provaLivro\\provaLivro.csproj": {
+    "D:\\Prova\\prova-back_end\\provaLivro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pichau\\Desktop\\Sistemas de Informação\\2 ano\\Segundo Semestre\\Desenvolvimento de Software Visual\\ProvaPrimeiroBimestre\\provaLivro\\provaLivro.csproj",
+        "projectUniqueName": "D:\\Prova\\prova-back_end\\provaLivro.csproj",
         "projectName": "provaLivro",
-        "projectPath": "C:\\Users\\Pichau\\Desktop\\Sistemas de Informação\\2 ano\\Segundo Semestre\\Desenvolvimento de Software Visual\\ProvaPrimeiroBimestre\\provaLivro\\provaLivro.csproj",
-        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pichau\\Desktop\\Sistemas de Informação\\2 ano\\Segundo Semestre\\Desenvolvimento de Software Visual\\ProvaPrimeiroBimestre\\provaLivro\\obj\\",
+        "projectPath": "D:\\Prova\\prova-back_end\\provaLivro.csproj",
+        "packagesPath": "C:\\Users\\rapha\\.nuget\\packages\\",
+        "outputPath": "D:\\Prova\\prova-back_end\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\rapha\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -67,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
