@@ -11,10 +11,10 @@ namespace provaLivro.Models
         public string Nome { get; set; }
         public string Autor { get; set; }
         public string Editora { get; set; }
-        public double Preço { get; set; }
+        public double Preco { get; set; }
     
         //ToString
         public override string ToString() =>
-            $"Nome: {Nome} || Autor: {Autor} || Editora: {Editora} || Preço: {Preço:C2}";
+            $"Nome: {Nome} || Autor: {Autor} || Editora: {Editora} || Preco: {Preco:C2}";
     }
 }
